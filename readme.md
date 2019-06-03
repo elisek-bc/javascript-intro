@@ -1,7 +1,18 @@
 # Javascript Intro
 
 ## What?
-This exercise series in made up of different parts.
+This exercise series in made up of different parts. 
+
+- 00. Hello World!
+- 01. Variables
+- 02. Operators
+- 03. Control Structures
+- 04. Functions
+- 05. Arrays
+- 06. Objects
+- 07. RFW
+
+The first exercises from 00 to 06 focus on learning and understanding, while 07 is more intractive.
 
 ## Timing
 The series of exercises was given to me on Monday 3th of June. I will work on it from today on, till Friday 7th of June.
@@ -36,4 +47,8 @@ The name can consist of letters, numbers, $ and the name does not begin with a n
 A longer name is best written in <strong>camelCase</strong>.
 
 ## Contributors
-## Difficulties
+I, Elise, am the only contributor to this project.
+
+## Personal reminders
+You can find my notes of this exercises as well on Studyblue, since it was more of an understanding exercise. I made reminders to myself for later on, to use during the rest of the exercises.
+[Studyblue](https://s.tudy.it/wfbnj)
