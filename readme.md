@@ -3,16 +3,16 @@
 ## What?
 This exercise series in made up of different parts. 
 
-- 00. Hello World!
-- 01. Variables
-- 02. Operators
-- 03. Control Structures
-- 04. Functions
-- 05. Arrays
-- 06. Objects
-- 07. RFW
+0. Hello World!
+1. Variables
+2. Operators
+3. Control Structures
+4. Functions
+5. Arrays
+6. Objects
+7. RFW
 
-The first exercises from 00 to 06 focus on learning and understanding, while 07 is more intractive.
+The first exercises from 0 to 6 focus on learning and understanding, while 7 is more intractive.
 
 ## Timing
 The series of exercises was given to me on Monday 3th of June. I will work on it from today on, till Friday 7th of June.
