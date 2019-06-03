@@ -52,3 +52,6 @@ I, Elise, am the only contributor to this project.
 ## Personal reminders
 You can find my notes of this exercises as well on Studyblue, since it was more of an understanding exercise. I made reminders to myself for later on, to use during the rest of the exercises.
 [Studyblue](https://s.tudy.it/wfbnj)
+
+## Difficulties
+The 6th part, about Objects, is still kinda vague to me. I get the thing with key value pairs and properties. But storing methods in object is something that I don't understand the use of and wouldn't know how to implement it.
