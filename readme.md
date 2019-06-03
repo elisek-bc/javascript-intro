@@ -12,7 +12,7 @@ This exercise series in made up of different parts.
 6. Objects
 7. RFW
 
-The first exercises from 0 to 6 focus on learning and understanding, while 7 is more intractive.
+The first exercises from 0 to 6 focus on learning and understanding, while 7 is more intractive. I already tackled 7 in a previous series of exercises. You can find those results [here](https://github.com/elisek-bc/javascript-bonus/tree/master/08-ES6-read-fix-write).
 
 ## Timing
 The series of exercises was given to me on Monday 3th of June. I will work on it from today on, till Friday 7th of June.
